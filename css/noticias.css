@@ -4,3 +4,19 @@ div#container-principal{
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+h1#titulo{
+    text-align: center;
+    margin: 1em;
+}
+
+div.video{
+    padding: 0.5em;
+    background-color: var(--corDeFundo3);
+    text-align: center;
+    border-radius: 10px;
+}
+
+div.video > iframe{
+    
+}
